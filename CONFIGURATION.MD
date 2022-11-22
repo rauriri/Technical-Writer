@@ -27,7 +27,7 @@ Before starting the server, remote connections must be allowed.
 - Server should be up and running. Its management interface IP and PORT should be shown on the console:
     ![server](img/run.png)
 
-- Open a web browser and login into de server management interface:  Remember to use the *username* and *password* established during the ***installation***:
+- Open a web browser and login into de server management interface. Remember to use the *username* and *password* established during the ***installation***:
 ![server-admin](img/server1.png)
 
 
