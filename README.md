@@ -18,7 +18,7 @@ Please follow the next steps to achieve a successful installation of your own Jb
 1. [Prerequisites](PREREQUISITES.md)
 2. [Installation](INSTALLATION.md)
 3. [Configuration](CONFIGURATION.md)
-3. [Uninstallation](UNINSTALL.md)
+4. [Uninstallation](UNINSTALL.md)
 
 Hoping you will find this guide helpful, please feel free to contact us. 
 Let us know any kind of improvement you'd like, as well as any mismatch you found [here](CONTACT.MD). 
