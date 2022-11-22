@@ -2,7 +2,7 @@
 
 Before starting the server, remote connections must be allowed. 
 
-- Edit ***standalone.xml*** configution file:
+- Edit ***standalone.xml*** configuration file:
 ```console
     $ sudo nano /opt/jboss/EAP-7.3.0/standalone/configuration/standalone.xml
 ```
