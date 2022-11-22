@@ -2,7 +2,7 @@
 
 For this test I've choosed to perform a ***Quick Installation Guide*** for Red Hat Jboss Enterprise Application Platform 7.3. 
 
-Please refer to the [About page](ABOUT.MD) to know more and why.
+Please refer to the [About page](ABOUT.MD) to learn more.
  
 ----------
 
