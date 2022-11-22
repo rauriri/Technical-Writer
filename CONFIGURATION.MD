@@ -21,7 +21,7 @@ Before starting the server, remote connections must be allowed.
 
 - Start the server running the following command:
     ```console
-    /opt/jboss/EAP-7.4.0/bin/standalone.sh
+    /opt/jboss/EAP-7.3.0/bin/standalone.sh
     ```
 
 - Server should be up and running. Its management interface IP and PORT should be shown on the console:
