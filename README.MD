@@ -8,7 +8,7 @@ Please refer to the [About page](ABOUT.MD) to learn more.
 
 # JBoss EAP 7.3 Quick Install Guide
 
-RedHat EAP JBOSS es a commonly spread web server for Linux servers.
+RedHat EAP JBOSS is a commonly spread web server for Linux servers.
 As a developer, you may need to deploy and test on real life web servers your applications. 
 
 This guide will show you how to perform a default installation, as well as some basic configuration of the Redhat EAP Jboss web server. 
