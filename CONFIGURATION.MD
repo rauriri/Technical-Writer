@@ -24,10 +24,10 @@ Before starting the server, remote connections must be allowed.
     /opt/jboss/EAP-7.4.0/bin/standalone.sh
     ```
 
-- Server should be up and running and will show its management interface:
+- Server should be up and running. Its management interface IP and PORT should be shown on the console:
     ![server](img/run.png)
 
-- Open a web browser and login into de server. Remember to user the *username* and *password* established during the ***installation***:
+- Open a web browser and login into de server management interface:  Remember to use the *username* and *password* established during the ***installation***:
 ![server-admin](img/server1.png)
 
 
