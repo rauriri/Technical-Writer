@@ -16,6 +16,6 @@
 
 Please, proceed with the next chapter to **install** JBoss. 
 
-Continue to [Installation](INSTALLATION.md) section.
+Continue to [Installation](INSTALLATION.MD) section.
 
- [Go back to README.MD](README.md).
+ [Go back to README.MD](README.MD).

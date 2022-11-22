@@ -7,6 +7,6 @@ Some weeks ago, found myself in a tricky situation: I needed to deploy an applic
 
 Took me some time to get it done, I really missed a guide like this at the moment :)
 
-Please check the [Links](LINKS.md) section to check EAP 7.3 Documentation.
+Please check the [Links](LINKS.MD) section to check EAP 7.3 Documentation.
 
-[Go back to README.MD](README.md)
+[Go back to README.MD](README.MD)

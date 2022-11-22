@@ -116,4 +116,4 @@ Download the installer file (jboss-eap-7.3.0-installer.jar) and locate it in a f
 
     Continue to [Configuration](CONFIGURATION.MD) section.
     
-    [Go back to README.MD](README.md)
+    [Go back to README.MD](README.MD)

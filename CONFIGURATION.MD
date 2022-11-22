@@ -33,4 +33,4 @@ Before starting the server, remote connections must be allowed.
 
 Follow up with the [Uninstall](UNINSTALL.MD) procedure.
     
-[Go back to README.MD](README.md)
+[Go back to README.MD](README.MD)
